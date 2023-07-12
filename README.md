@@ -18,7 +18,7 @@
 ![express](https://img.shields.io/static/v1?logo=express&label=&message=express&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**Tech Lead & Software Engineer** &#12299;_working with new ways to invest at InvestAI_
+**Tech Lead & Software Engineer**
 
 ----
 
