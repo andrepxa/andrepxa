@@ -22,9 +22,6 @@
 
 ----
 
-<a href="https://twitter.com/andrepxa">
-  <img align="left" alt="Andre's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
 <a href="https://linkedin.com/in/andrepaxiega">
   <img align="left" alt="Andre's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
