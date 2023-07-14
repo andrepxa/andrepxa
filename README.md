@@ -1,27 +1,36 @@
+### My name is Andre Paxiega, I'm a Fullstack Software Engineer
+
+- 🔭 I've been working in Javascript/Typescript primarily for over 7 years.
+- 🎯 I have a **college degree in System Development and Analysis** field **(graduated in 2017)**.
+
+🌱 I'm currently learning:
+   * Flutter
+   * Domain Driven Design
+   * Hexagonal Architecture
+   * Clean Architecture
+   * System design
+
+📫 How to reach me: 
+ - 🎯 **Linkedin:** [www.linkedin.com/in/andre-paxiega](https://www.linkedin.com/in/andrepaxiega/)
+ - 🎯 **Email:** andrepxa@gmail.com
+ - 🎯 **Phone:** <a href="https://wa.me/+5511986333054"> Send a message </a>
 
 
-### Hi, I'm Andre! A tech enthusiast who loves to automate everything and learn new things.
+### Languages & Tools 🛠  
 
-----
-
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square)
-![lua](https://img.shields.io/static/v1?logo=lua&label=&message=lua&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
-![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=36465D&logoColor=AAA&style=flat-square)
-![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square)
-![nestjs](https://img.shields.io/static/v1?logo=nestjs&label=&message=nestjs&color=36465D&logoColor=AAA&style=flat-square)
-![express](https://img.shields.io/static/v1?logo=express&label=&message=express&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-
-**Tech Lead & Software Engineer**
-
-----
-
-<a href="https://linkedin.com/in/andrepaxiega">
-  <img align="left" alt="Andre's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
+![Javascript](https://img.shields.io/badge/Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.JS-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-05122A?style=for-the-badge&logo=nestjs)&nbsp;
+![ReactJS](https://img.shields.io/badge/ReactJS-05122A?style=for-the-badge&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react)&nbsp;
+![NextJS](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=nextdotjs)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-05122A?style=for-the-badge&logo=google-cloud)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=for-the-badge&logo=amazon-aws)&nbsp;
+![MUI](https://img.shields.io/badge/Material--UI-05122A?style=for-the-badge&logo=material-ui)&nbsp;
+![jest](https://img.shields.io/badge/jest-05122A?style=for-the-badge&logo=jest)&nbsp;
+![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
