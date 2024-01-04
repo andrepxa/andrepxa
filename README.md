@@ -4,14 +4,12 @@
 - 🎯 I have a **college degree in System Development and Analysis** field **(graduated in 2017)**.
 
 🌱 I'm currently learning:
-   * Flutter
    * Domain Driven Design
-   * Hexagonal Architecture
    * Clean Architecture
-   * System design
+   * System Design
 
 📫 How to reach me: 
- - 🎯 **Linkedin:** [www.linkedin.com/in/andre-paxiega](https://www.linkedin.com/in/andrepaxiega/)
+ - 🎯 **Linkedin:** [linkedin.com/in/andre-paxiega](https://www.linkedin.com/in/andrepaxiega/)
  - 🎯 **Email:** andrepxa@gmail.com
  - 🎯 **Phone:** <a href="https://wa.me/+5511986333054"> Send a message </a>
 
